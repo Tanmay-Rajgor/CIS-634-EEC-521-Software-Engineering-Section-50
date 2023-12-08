@@ -4,12 +4,12 @@
 https://chatrasahaya.org/
 
 # Description
-WARNING: This application contains security vulnerabilities. Run it only in a backed-up and sheltered environment (such as a VM with a recent snapshot and host-only networking) and at your own risk, escpecially if you enable some of the advanced options described below!
+WARNING: This application contains security vulnerabilities. Run it only in a backed-up and sheltered environment (such as a VM with a recent snapshot and host-only networking) and at your own risk, especially if you enable some of the advanced options described below!
 
-This software will help the Chatrasahaya to be more efficient in submitting of their requests such as money,food and other needs…and tracking of submission 
-on the maps. It also sends the mails to the internal team to check the submissions quickly. The purpose of this project is to computerize all details 
-regarding submissions from request us,Users can submit their required needs likes education,financial,Health…from the Request Us for Self /For Others 
-Page by using some fields such as Name -- Full Name of the requester , Phone Number -- Phone/mobile Number of the Requester , Location -- The place of 
+This software will help the Chatrasahaya to be more efficient in submitting their requests such as education materials, finances, food, and other needs…and tracking submissions on the maps. It also sends emails to the internal team to check the submissions quickly. The purpose of this project is to computerize all details 
+regarding submissions from Request Us, Users can submit their required needs like education, finances, and Health…from the Request Us for Self /For Others Page by using some fields such as 
+1. Name -- Full Name of the requester,
+2. Phone Number -- Phone/mobile Number of the Requester , Location -- The place of 
 the request where books,chairs,tables are needed for the schools , Category-- Its was type of the request such as education,financial,
 Health Description -- Its was the description/overview of the needs ,  Aaadhar Number -Its was unique identity number of the requester, 
 Documents --- Proof of the documents needs to be uploaded here.
